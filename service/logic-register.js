@@ -46,6 +46,7 @@ class LogicRegister {
   }
 
 
+
 }
 module.exports = LogicRegister;
 
